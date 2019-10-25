@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(122,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(123,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(124,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(125,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(126,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(127,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(128,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(129,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(162,32): warning C4244:  “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(163,32): warning C4244:  “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(164,32): warning C4244:  “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\main.cpp(172,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+  ImgProject.vcxproj -> D:\浙江大学\2019~2020秋冬学期\图像信息处理\ImgProject\ImgProject\Debug\ImgProject.exe
